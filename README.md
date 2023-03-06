@@ -1,4 +1,4 @@
-### Hello! I'm currently new to coding.
+### Hello! I'm currently new to coding. I am a scratcher and my scratch account is @-Dragler- . Follow me there!
 
 <!--
 **sthanug/sthanug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
