@@ -1,4 +1,4 @@
-### Currently working on a Sports Widget
+### currently working on a sports stat app! check it out below
 
 <!--
 **sthanug/sthanug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
