@@ -1,4 +1,4 @@
-### currently working on an nba transactions app! 
+### check out my stuff :)
 
 <!--
 **sthanug/sthanug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
